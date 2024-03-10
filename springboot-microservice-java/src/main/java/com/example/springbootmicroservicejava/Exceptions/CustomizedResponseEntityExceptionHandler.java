@@ -1,4 +1,4 @@
-package com.Exceptions;
+package com.example.springbootmicroservicejava.Exceptions;
 
 import java.net.http.HttpHeaders;
 import java.time.LocalDateTime;

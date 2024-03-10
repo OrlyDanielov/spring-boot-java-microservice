@@ -10,9 +10,9 @@ import com.example.springbootmicroservicejava.Repository.UserRepository;
 
 import jakarta.validation.Valid;
 
-import com.Exceptions.UserNotFoundException;
 import com.example.springbootmicroservicejava.Data.Post;
 import com.example.springbootmicroservicejava.Data.User;
+import com.example.springbootmicroservicejava.Exceptions.UserNotFoundException;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
